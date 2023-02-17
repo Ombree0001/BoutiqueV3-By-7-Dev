@@ -1,6 +1,6 @@
 # boutiquev3
  
-[Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
+[Clique ici pour rejoindre le Discord](https://discord.gg/fivemfrance)
 
 [Vidéo présentation](https://youtu.be/NbIqcEz4O5I)
 
